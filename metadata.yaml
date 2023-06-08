@@ -1,0 +1,27 @@
+_repo: Bruder-Leichtfu0xdf-und-Stein-am-Bein_70910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skowronnek, Richard
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '26314'
+    url: http://www.gutenberg.org/2009/agents/26314
+    wikipedia: http://de.wikipedia.org/wiki/Richard_Skowronnek
+description: ''
+gutenberg_issued: '2023-06-04'
+identifiers:
+  gutenberg: '70910'
+language: de
+pgterms:marc905: 20200209001942skowronnek
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bUllstein & Co, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bruder Leichtfuß und Stein am Bein
+url: http://www.gutenberg.org/ebooks/70910
